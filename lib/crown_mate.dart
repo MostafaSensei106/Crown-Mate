@@ -28,7 +28,7 @@ class CrownMate extends StatelessWidget {
       // ],
       // localeResolutionCallback:
       //     (locale, supportedLocales) => const Locale('ar', 'EG'),
-      home: HomePage(),
+      home: MyHomePage(),
     );
   }
 }

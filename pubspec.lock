@@ -50,7 +50,7 @@ packages:
     source: hosted
     version: "1.19.1"
   dartchess:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: dartchess
       sha256: ef6d46208ab78af7cd0159bf84b48a5ca8e76c226fc2deebbed5b5f6eccd3729

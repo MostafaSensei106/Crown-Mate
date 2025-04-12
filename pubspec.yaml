@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   chessground: ^7.1.2
-  stockfish: ^1.7.1
+  stockfish: ^1.7.0
+  dartchess: ^0.11.1
 
 dev_dependencies:
   flutter_test:
